@@ -1,0 +1,57 @@
+1)Write a program (WAP) to find the greatest of three numbers.
+
+2)WAP to reverse a number.
+
+3)WAP to convert temperature in Celsius to Fahrenheit.
+
+4)WAP to compute the sum of the first n terms of the following series
+S =1-2+3-4+5…………….
+
+5)WAP to find factorial of a given number a) using recursion b) using iteration.
+
+6)WAP to find grade of a student given her/his marks in four subjects.
+
+7)WAP to find whether a given number is prime or not.
+
+8)WAP to compute the factors of a given number using default argument.
+
+9)WAP to swap two numbers.
+
+10)WAP to define a function ‘Area’ that calculates the area of a rectangle, square and triangle.
+Use function overloading.
+
+11)WAP (menu-driven) to perform following actions on an array entered by the user:
+    i) Print the even-valued elements
+    ii) Print the odd-valued elements
+    iii) Calculate and print the sum and average of the elements of array
+    iv) Print the maximum and minimum element of array
+
+12)WAP to print a triangle of stars as follows (take number of lines from user):
+        *
+        *
+        **
+        ***
+        ****
+
+13)Create a structure called Employee that contains the following members: employee number,
+name and salary. Display the information of an employee.
+
+14)Create Matrix class. WAP (menu-driven) to perform following matrix operations:
+    a) Sum
+    b) Difference
+    c) Transpose
+
+15)Create a class: Person with member variables: name and age. Create two overloaded
+constructors for this class along with a copy constructor. Also create a destructor. Include
+member function, get_data(), to get the name and age of the person. Define a member function,
+display_data() to display the member variables. Define objects for this class and showcase
+these of each of these functions.
+
+16.)Inherit the above defined class: Person to create two new classes: Teacher and Student. In
+both the new classes, override the get_data() function of the Person class. Also include new
+functions get_specialization() and get_class() for the Teacher and Student class respectively.
+Create objects of these classes. Use the member functions suitably to show the properties of
+inheritance.
+
+17.)Create a text file by taking input from user. Save the file and read back the contents of the
+file and display on the screen.
